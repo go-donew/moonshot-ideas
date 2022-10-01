@@ -3,7 +3,7 @@
 ## Focus Areas 
 
 
-#### 1. Identity Engineering: 
+#### 1. Identity, Credentialing and Contracting: 
         
         Subareas (with relevant reading):
         - Identity (Registries, DID, Self soverign id)
@@ -19,14 +19,6 @@
         - Consent (DEPA book, W3C spec)
         - Compliance (GDPR, India privacy bill, HiPAA, CCPA)
         
-        Relevant open source projects: 
-        - Sunbird RC
-        - W3C DID
-        - w3C Verifiable credentials
-        - Dhiway SDK
-        
-        
-
 #### 3. AI for Intelligence Insights: 
 
         Subareas (with relevant reading):
@@ -66,5 +58,6 @@
         - DALLe
         - mini-GPT, GPT3 for text
 
+#### 8. 
 
 
