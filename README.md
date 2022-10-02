@@ -58,6 +58,11 @@
         - DALLe
         - mini-GPT, GPT3 for text
 
-#### 8. 
+#### 8. 3D for medicine
+        - Digital dentistry
+        - Biomechanics
+        - Prosthetics
+        
+        
 
 
