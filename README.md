@@ -63,6 +63,16 @@
         - Biomechanics
         - Prosthetics
         
+#### 9. Responsible technology: Ethics, sustainability
+        - UX dark patterns
+        - AI algorithmic bias
+        - environmentally friendly computing
+        - bioengineered humans
+        
+#### 10. Data for medicine: Bioinformatics, neuroscience
+        - Protein modeling
+        - Genetic marker detection
+        - EEG based emotion detection
         
 
 
