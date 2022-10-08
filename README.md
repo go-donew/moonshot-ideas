@@ -6,7 +6,7 @@
 #### 1. Identity, Credentialing and Contracting: 
         
         Subareas (with relevant reading):
-        - Identity (Registries, DID, Self soverign id)
+        - Identity (Registries, DID, Self sovereign id)
         - Verificable credentials and presentations
         - Data immutability (blockchain - proof of work, stake, authority, immudb)
         - Smart contracts ([legal](https://medium.com/fordham-business-law-association/smart-contract-basics-a-legal-contract-perspective-part-ii-verifiability-4bc5c4ca8b88), 
