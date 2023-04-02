@@ -15,7 +15,7 @@
 #### 2. Privacy Engineering: 
         
         Subareas (with relevant reading): 
-        - Privacy (GDPR use cases, 
+        - Privacy (GDPR use cases)
         - Consent (DEPA book, W3C spec)
         - Compliance (GDPR, India privacy bill, HiPAA, CCPA)
         
